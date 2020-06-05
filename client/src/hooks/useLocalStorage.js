@@ -1,3 +1,6 @@
+
+//not using local storage - done\\
+
 import { useState } from "react"
 
 export const useLocalStorage = (key, initialValue) => {

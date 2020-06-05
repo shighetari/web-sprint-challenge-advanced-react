@@ -1,5 +1,5 @@
 body {
-  background: #0e101c;
+  background: green;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
@@ -276,6 +276,15 @@ pre {
 }
 .dark-mode {
   color: #fff;
-  background-color: purple;
+  background-color: black;
+
+}
+.darkmodebutton {
+  color: red;
+  background: black;
+
+}
+.darkmodebutton:hover {
+  background: black;
 
 }
